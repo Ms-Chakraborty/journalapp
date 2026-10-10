@@ -1,0 +1,13 @@
+
+spring:
+  security:
+    user:
+      name: tintin
+      password: tudums
+  application:
+    name: journalapp
+  data:
+    mongodb:
+      uri: mongodb+srv://AdminTitiksha:HQiLt4gC!$zG#gDttDtW@cluster0.jd2honi.mongodb.net/?appName=Cluster0
+      database: journaldb
+      autoindexcreation: true
